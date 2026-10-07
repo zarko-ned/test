@@ -1,0 +1,7 @@
+package rs.raf;
+
+public class BasicCalculator {
+    public int add(int a, int b) {
+        return a + b;
+    }
+}
